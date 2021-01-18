@@ -1,0 +1,5 @@
+USER=ubuntu
+PASSWORD=password
+DB_NAME=gym
+HOST=127.0.0.1
+PORT=5432
