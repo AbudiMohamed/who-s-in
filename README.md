@@ -1,4 +1,4 @@
-# Who-s-in
+# Who-is-in
 Check-in app that counts the checked in/out users using a hardware.
 
 # Contributors
